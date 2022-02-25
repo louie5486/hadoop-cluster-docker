@@ -4,7 +4,7 @@
 - 博客: [基于Docker搭建Hadoop集群之升级版](http://kiwenlau.com/2016/06/12/160612-hadoop-cluster-docker-update/)
 
 
-![alt tag](https://raw.githubusercontent.com/kiwenlau/hadoop-cluster-docker/master/hadoop-cluster-docker.png)
+![alt tag](hadoop-cluster-docker.png)
 
 
 ### 3 Nodes Hadoop Cluster
